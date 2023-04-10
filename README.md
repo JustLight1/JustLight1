@@ -9,6 +9,8 @@
 
 
 ## Some stats
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JustLight1)](https://git.io/streak-stats)
+ 
 ![](https://komarev.com/ghpvc/?username=JustLight1&style=flat-square&color=red)
  
 [![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustLight1&show_icons=true&theme=calm&count_private=True)](https://github.com/JustLight1/github-readme-stats)
