@@ -1,16 +1,17 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Backend+developer)](https://git.io/typing-svg)
 
-<!--
-**JustLight1/JustLight1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Telegram Badge](https://img.shields.io/badge/-Light_88-blue?style=social&logo=telegram&link=https://t.me/Light_88)](https://t.me/Light_88) <p align='left'>
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠 Backend developer
+- 🐍 Learning Python
+
+
+
+## Some stats
+![](https://komarev.com/ghpvc/?username=JustLight1&style=flat-square&color=red)
+ 
+[![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustLight1&show_icons=true&theme=calm&count_private=True)](https://github.com/JustLight1/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustLight1&layout=compact&theme=calm&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
