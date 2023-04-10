@@ -13,6 +13,6 @@
  
 [![codewars](https://www.codewars.com/users/JustLight1/badges/large)](https://www.codewars.com/users/JustLight1)
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Alexandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustLight1)](https://github.com/JustLight1/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustLight1&layout=compact&theme=calm&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
