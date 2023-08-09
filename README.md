@@ -75,14 +75,13 @@ Welcome to my GitHub Page. I am a novice backend developer in python, I have bee
 </div>
 
 ## Some stats
-![](https://komarev.com/ghpvc/?username=JustLight1&style=flat-square&color=red)
+![](https://komarev.com/ghpvc/?username=JustLight1&style=flat-square&color=blue)
 
-<h3>Codewars stats</h3>
+<h3>Codewars Stats</h3>
 
 [![Codewars](https://www.codewars.com/users/JustLight1/badges/large)](https://www.codewars.com/users/JustLight1)
----
 
-<h3>LeetCode stats</h3>
+<h3>LeetCode Stats</h3>
 
 [![LeetCode](https://leetcode-stats-six.vercel.app/api?username=JustLight1&theme=dark)](https://github.com/JustLight1/leetcode-stats)
 ---
@@ -102,3 +101,5 @@ Welcome to my GitHub Page. I am a novice backend developer in python, I have bee
 <br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+[![JustLight1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JustLight1&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
