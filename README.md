@@ -76,14 +76,19 @@ Welcome to my GitHub Page. I am a novice backend developer in python, I have bee
 
 ## Some stats
 ![](https://komarev.com/ghpvc/?username=JustLight1&style=flat-square&color=red)
+
 ---
 
 **Codewars stats**
+
 [![Codewars](https://www.codewars.com/users/JustLight1/badges/large)](https://www.codewars.com/users/JustLight1)
+
 ---
 
 **LeetCode stats**
+
 [![LeetCode](https://leetcode-stats-six.vercel.app/api?username=JustLight1&theme=dark)](https://github.com/JustLight1/leetcode-stats)
+
 ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JustLight1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) 
