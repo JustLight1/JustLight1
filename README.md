@@ -83,7 +83,7 @@ Welcome to my GitHub Page. I am a novice backend developer in python, I have bee
 
 <h3>LeetCode Stats</h3>
 
-[![LeetCode](https://leetcode-stats-six.vercel.app/api?username=JustLight1&theme=dark)](https://github.com/JustLight1/leetcode-stats)
+[![LeetCode](https://leetcode-stats-six.vercel.app/api?username=JustLight1&theme=dark)](https://leetcode.com/JustLight1/)
 ---
 
 <h3>🔥 Streak Stats</h3>
