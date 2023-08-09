@@ -77,18 +77,21 @@ Welcome to my GitHub Page. I am a novice backend developer in python, I have bee
 ## Some stats
 ![](https://komarev.com/ghpvc/?username=JustLight1&style=flat-square&color=red)
 
-**Codewars stats**
+<h3>Codewars stats</h3>
 
 [![Codewars](https://www.codewars.com/users/JustLight1/badges/large)](https://www.codewars.com/users/JustLight1)
 ---
 
-**LeetCode stats**
+<h3>LeetCode stats</h3>
 
 [![LeetCode](https://leetcode-stats-six.vercel.app/api?username=JustLight1&theme=dark)](https://github.com/JustLight1/leetcode-stats)
 ---
 
+<h3>🔥 Streak Stats</h3>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JustLight1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) 
 
+<h3>💻 GitHub Profile Stats</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="JustLight1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustLight1&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/>
@@ -96,3 +99,6 @@ Welcome to my GitHub Page. I am a novice backend developer in python, I have bee
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="JustLight1's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=JustLight1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="192px"/>
 </a>
+<br/>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
