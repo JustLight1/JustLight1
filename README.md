@@ -86,11 +86,13 @@ Welcome to my GitHub Page. I am a novice backend developer in python, I have bee
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustLight1&theme=tokyonight&hide_border=false" alt="Streak">
+      <a href="https://github.com/JustLight1/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=JustLight1&theme=tokyonight" alt="GitHub Stats">
+      </a>
     </td>
     <td>
       <a href="https://github.com/JustLight1/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=JustLight1&theme=tokyonight" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustLight1&layout=compact&theme=tokyonight&count_private=True" alt="Top Languages">
       </a>
     </td>
   </tr>
