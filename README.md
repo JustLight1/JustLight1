@@ -105,5 +105,9 @@ Welcome to my GitHub Page. I am a novice backend developer in python, I have bee
   </tr>
 </table>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="JustLight1's Github Stats" src="https://justlight1-github-readme-stats.vercel.app/api/?username=JustLight1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="JustLight1's Top Languages" src="https://justlight1-github-readme-stats.vercel.app/api/top-langs/?username=JustLight1&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="JustLight1's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=JustLight1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="192px"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="JustLight1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustLight1&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/>
+</a>
