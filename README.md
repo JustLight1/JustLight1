@@ -81,7 +81,9 @@ Welcome to my GitHub Page. I am a novice backend developer in python, I have bee
 
 [![LeetCode](https://leetcode-stats-six.vercel.app/api?username=JustLight1&theme=dark)](https://github.com/JustLight1/leetcode-stats)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JustLight1&theme=tokyonight&hide_border=false) 
+<a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JustLight1&theme=tokyonight&hide_border=false" alt="Streak">
+</a>
 
 <table>
   <tr>
