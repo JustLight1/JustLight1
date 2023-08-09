@@ -88,16 +88,20 @@ Welcome to my GitHub Page. I am a novice backend developer in python, I have bee
 ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JustLight1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) 
-
 <table>
-  <tr>
-   <td>
+<tr>
+ <td>
       <div style="display: flex; justify-content: center;">
         <a href="https://git.io/streak-stats">
           <img src="http://github-readme-streak-stats.herokuapp.com?user=JustLight1&theme=tokyonight&hide_border=true" alt="GitHub Streak">
         </a>
       </div>
     </td>
+ </tr>
+</table>
+
+<table>
+  <tr>
     <td>
       <a href="https://github.com/JustLight1/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustLight1&layout=compact&theme=tokyonight&count_private=True&hide_border=true" alt="Top Languages">
