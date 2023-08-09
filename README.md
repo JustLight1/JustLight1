@@ -81,18 +81,20 @@ Welcome to my GitHub Page. I am a novice backend developer in python, I have bee
 
 [![LeetCode](https://leetcode-stats-six.vercel.app/api?username=JustLight1&theme=dark)](https://github.com/JustLight1/leetcode-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustLight1&layout=compact&theme=tokyonight&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>
+    ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JustLight1&theme=tokyonight&hide_border=false) 
+</div>
 
 <table>
   <tr>
     <td>
       <a href="https://github.com/JustLight1/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=JustLight1&theme=tokyonight" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustLight1&layout=compact&theme=tokyonight&count_private=True" alt="Top Languages">
       </a>
     </td>
     <td>
       <a href="https://github.com/JustLight1/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustLight1&layout=compact&theme=tokyonight&count_private=True" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api?username=JustLight1&theme=tokyonight" alt="GitHub Stats">
       </a>
     </td>
   </tr>
