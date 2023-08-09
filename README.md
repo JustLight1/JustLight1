@@ -3,8 +3,9 @@
 [![Telegram Badge](https://img.shields.io/badge/-Light_88-blue?style=social&logo=telegram&link=https://t.me/Light_88)](https://t.me/Light_88)
  
 
-- 🛠 Backend developer
-- 🐍 Learning Python
+Hi 👋, I'm Aleksandr
+
+Welcome to my GitHub Page. I am a novice backend developer in python, I have been developing for about a year, during this time I have managed to study a lot of technologies and tools and I am not going to stop there. I plan to study FastAPI and asynchronous programming. I practice the skills of solving algorithmic problems on Codewars and LeetCode.
 
 
 ## My favorite tools and technologies ⚙️
@@ -76,8 +77,21 @@
 ## Some stats
 ![](https://komarev.com/ghpvc/?username=JustLight1&style=flat-square&color=red)
  
-[![codewars](https://www.codewars.com/users/JustLight1/badges/large)](https://www.codewars.com/users/JustLight1)
- 
-[![Alexandr`s GitHub stats](https://github-readme-stats.vercel.app/api?username=JustLight1&show_icons=true&theme=calm&count_private=True)](https://github.com/JustLight1/github-readme-stats)
+[![Codewars](https://www.codewars.com/users/JustLight1/badges/large)](https://www.codewars.com/users/JustLight1)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustLight1&layout=compact&theme=calm&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
+[![LeetCode](https://leetcode-stats-six.vercel.app/api?username=JustLight1&theme=dark)](https://github.com/JustLight1/leetcode-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustLight1&layout=compact&theme=tokyonight&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustLight1&theme=tokyonight&hide_border=false" alt="Streak">
+    </td>
+    <td>
+      <a href="https://github.com/JustLight1/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=JustLight1&theme=tokyonight" alt="GitHub Stats">
+      </a>
+    </td>
+  </tr>
+</table>
