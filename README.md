@@ -11,7 +11,6 @@
 
 > Tools and technologies that I have worked with and am interested in
 
-<table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -69,7 +68,6 @@
   </tr>
  <tr>
  </tr>
-</table
 
 ## Some stats
 ![](https://komarev.com/ghpvc/?username=JustLight1&style=flat-square&color=red)
