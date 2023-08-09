@@ -3,7 +3,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Light_88-blue?style=social&logo=telegram&link=https://t.me/Light_88)](https://t.me/Light_88)
  
 
-Hi, I'm Aleksandr 👋
+Hi, I'm Alexandr 👋
 
 Welcome to my GitHub Page. I am a novice backend developer in python, I have been developing for about a year, during this time I have managed to study a lot of technologies and tools and I am not going to stop there. I plan to study FastAPI and asynchronous programming. I practice the skills of solving algorithmic problems on Codewars and LeetCode.
 
@@ -74,7 +74,7 @@ Welcome to my GitHub Page. I am a novice backend developer in python, I have bee
 </table>
 </div>
 
-## Some stats
+## Some Stats
 ![](https://komarev.com/ghpvc/?username=JustLight1&style=flat-square&color=blue)
 
 <h3>Codewars Stats</h3>
