@@ -39,6 +39,8 @@
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>Github
     </td>
+    </tr>
+    <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
@@ -51,6 +53,10 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="jquery" />
+      <br>SQLite
+    </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
@@ -59,6 +65,7 @@
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
+    </tr>
   </tr>
  <tr>
  </tr>
