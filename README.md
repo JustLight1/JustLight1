@@ -5,7 +5,7 @@
 
 Hi, I'm Alexandr 👋
 
-Welcome to my GitHub Page. I am a novice backend developer in python, I have been developing for about a year, during this time I have managed to study a lot of technologies and tools and I am not going to stop there. I plan to study FastAPI and asynchronous programming. I practice the skills of solving algorithmic problems on Codewars and LeetCode.
+Welcome to my GitHub Page. I am a novice backend developer in python, I have been developing for about a year, during this time I have managed to study a lot of technologies and tools and I am not going to stop there. I plan to study FastAPI and Flask. I practice the skills of solving algorithmic problems on Codewars and LeetCode.
 
 
 ## My favorite tools and technologies ⚙️
