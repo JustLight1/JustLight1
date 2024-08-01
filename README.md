@@ -112,7 +112,7 @@ to my GitHub. I am a backend developer in python. I to study FastAPI and practic
   </div>
   <div style="display: flex; align-items: center; margin-left: 10px;">
     <a href="https://emoji.gg/emoji/6200-pika-wink">
-      <img src="https://cdn3.emoji.gg/emojis/6200-pika-wink.gif" alt="Pika_Wink" height="100">
+      <img src="https://cdn3.emoji.gg/emojis/6200-pika-wink.gif" alt="Pika_Wink" height="100" align="right">
     </a>
   </div>
 </div>
