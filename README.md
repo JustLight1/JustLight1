@@ -3,12 +3,13 @@
 [![Telegram Badge](https://img.shields.io/badge/-Light_88-blue?style=social&logo=telegram&link=https://t.me/Light_88)](https://t.me/Light_88)
 
 <div align="center" style="margin-bottom: 60px;">
-  <div style="display: inline-block; text-align: left;">
-    <img src="https://panels.twitch.tv/panel-74912926-image-61862319-bc3b-43fb-9d8f-16b3668398d6" alt="ken" style="margin-right: 10px; float: left;">
-    <p>Hi, I'm Alexandr 👋</p>
-    <p>Welcome to my GitHub. I am a backend developer in Python. I study FastAPI and practice solving algorithmic problems on Codewars and LeetCode.</p>
+  <div style="display: flex; align-items: center;">
+    <img src="https://panels.twitch.tv/panel-74912926-image-61862319-bc3b-43fb-9d8f-16b3668398d6" alt="ken" style="margin-right: 10px;">
+    <div style="text-align: left;">
+      <p>Hi, I'm Alexandr 👋</p>
+      <p>Welcome to my GitHub. I am a backend developer in Python. I study FastAPI and practice solving algorithmic problems on Codewars and LeetCode.</p>
+    </div>
   </div>
-  <div style="clear: both;"></div>
 </div>
 
 ## My favorite tools and technologies ⚙️
