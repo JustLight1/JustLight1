@@ -2,12 +2,13 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Light_88-blue?style=social&logo=telegram&link=https://t.me/Light_88)](https://t.me/Light_88)
 
-<div align="center">
-  <div algin="right">
-    <img src="https://panels.twitch.tv/panel-74912926-image-61862319-bc3b-43fb-9d8f-16b3668398d6"  alt="ken" align="left">
+<div align="center" style="margin-bottom: 20px;">
+  <div style="display: inline-block; text-align: left;">
+    <img src="https://panels.twitch.tv/panel-74912926-image-61862319-bc3b-43fb-9d8f-16b3668398d6" alt="ken" align="left" style="margin-right: 10px;">
+    <p>Hi, I'm Alexandr 👋</p>
+    <p>Welcome to my GitHub. I am a backend developer in Python. I study FastAPI and practice solving algorithmic problems on Codewars and LeetCode.</p>
   </div>
-Hi, I'm Alexandr 👋
-to my GitHub. I am a backend developer in python. I to study FastAPI and practice the skills of solving algorithmic problems on Codewars and LeetCode.
+</div>
 
 </div>
 
@@ -107,12 +108,15 @@ to my GitHub. I am a backend developer in python. I to study FastAPI and practic
 
 <h3>🔥 Streak Stats</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JustLight1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-<div algin="right">
-
-[![Pika_Wink](https://cdn3.emoji.gg/emojis/6200-pika-wink.gif)](https://emoji.gg/emoji/6200-pika-wink)
-
+<div style="display: flex; align-items: center;">
+  <a href="https://git.io/streak-stats" style="flex-grow: 1;">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=JustLight1&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
+  </a>
+  <div style="margin-left: 10px;">
+    <a href="https://emoji.gg/emoji/6200-pika-wink">
+      <img src="https://cdn3.emoji.gg/emojis/6200-pika-wink.gif" alt="Pika_Wink">
+    </a>
+  </div>
 </div>
 
 <h3>💻 GitHub Profile Stats</h3>
