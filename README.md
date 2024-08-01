@@ -2,7 +2,7 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Light_88-blue?style=social&logo=telegram&link=https://t.me/Light_88)](https://t.me/Light_88)
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 60px;">
   <div style="display: inline-block; text-align: left;">
     <img src="https://panels.twitch.tv/panel-74912926-image-61862319-bc3b-43fb-9d8f-16b3668398d6" alt="ken" align="left" style="margin-right: 10px;">
     <p>Hi, I'm Alexandr 👋</p>
