@@ -122,4 +122,4 @@ to my GitHub. I am a backend developer in python. I to study FastAPI and practic
 <br/>
 
 <img src="https://media1.tenor.com/m/fiFkzs-VqbwAAAAC/madzyy.gif" height="284px">
-<img src="https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-anime-girl-87.gif">
+<img src="https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-anime-girl-87.gif" align="right">
