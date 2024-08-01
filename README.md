@@ -119,3 +119,7 @@ to my GitHub. I am a backend developer in python. I to study FastAPI and practic
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 [![JustLight1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JustLight1&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+
+<img src="https://media1.tenor.com/m/fiFkzs-VqbwAAAAC/madzyy.gif" height="284px">
+<img src="https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-anime-girl-87.gif">
