@@ -4,12 +4,11 @@
 
 <div align="center" style="margin-bottom: 60px;">
   <div style="display: inline-block; text-align: left;">
-    <img src="https://panels.twitch.tv/panel-74912926-image-61862319-bc3b-43fb-9d8f-16b3668398d6" alt="ken" align="left" style="margin-right: 10px;">
+    <img src="https://panels.twitch.tv/panel-74912926-image-61862319-bc3b-43fb-9d8f-16b3668398d6" alt="ken" style="margin-right: 10px; float: left;">
     <p>Hi, I'm Alexandr 👋</p>
     <p>Welcome to my GitHub. I am a backend developer in Python. I study FastAPI and practice solving algorithmic problems on Codewars and LeetCode.</p>
   </div>
-</div>
-
+  <div style="clear: both;"></div>
 </div>
 
 ## My favorite tools and technologies ⚙️
