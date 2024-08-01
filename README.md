@@ -122,6 +122,6 @@ to my GitHub. I am a backend developer in python. I to study FastAPI and practic
 <br/>
 
 <div>
-  <img src="https://media1.tenor.com/m/fiFkzs-VqbwAAAAC/madzyy.gif" width= "350px" >
-  <img src="https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-anime-girl-87.gif" width= "350px" align="right">
+  <img src="https://media1.tenor.com/m/fiFkzs-VqbwAAAAC/madzyy.gif" width= "400px" >
+  <img src="https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-anime-girl-87.gif" width= "400px" align="right">
 </div>
