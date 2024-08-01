@@ -6,9 +6,8 @@
   <img src="https://panels.twitch.tv/panel-74912926-image-61862319-bc3b-43fb-9d8f-16b3668398d6"  alt="ken" align="left">
 </div>
 <br><br><br>
-<li>Hi, I'm Alexandr 👋
-to my GitHub. I am a backend developer in python. I to study FastAPI and practice the skills of solving algorithmic problems on Codewars and LeetCode.</li>
-<br>
+Hi, I'm Alexandr 👋
+to my GitHub. I am a backend developer in python. I to study FastAPI and practice the skills of solving algorithmic problems on Codewars and LeetCode.
 
 ## My favorite tools and technologies ⚙️
 
