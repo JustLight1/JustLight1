@@ -4,7 +4,7 @@
 
 <div align="center" style="margin-bottom: 60px;">
   <div style="display: flex; align-items: center;">
-    <img src="https://panels.twitch.tv/panel-74912926-image-61862319-bc3b-43fb-9d8f-16b3668398d6" alt="ken" style="margin-right: 10px;">
+    <img src="https://panels.twitch.tv/panel-74912926-image-61862319-bc3b-43fb-9d8f-16b3668398d6" alt="ken" style="margin-right: 10px; max-width: 100px;">
     <div style="text-align: left;">
       <p>Hi, I'm Alexandr 👋</p>
       <p>Welcome to my GitHub. I am a backend developer in Python. I study FastAPI and practice solving algorithmic problems on Codewars and LeetCode.</p>
@@ -108,16 +108,12 @@
 
 <h3>🔥 Streak Stats</h3>
 
-<div style="display: flex; align-items: center;">
-  <a href="https://git.io/streak-stats" style="flex-grow: 1;">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=JustLight1&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
-  </a>
-  <div style="margin-left: 10px;">
-    <a href="https://emoji.gg/emoji/6200-pika-wink">
-      <img src="https://cdn3.emoji.gg/emojis/6200-pika-wink.gif" alt="Pika_Wink" height="48">
-    </a>
-  </div>
-</div>
+<a href="https://git.io/streak-stats" style="flex-grow: 1;">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=JustLight1&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
+</a>
+<a href="https://emoji.gg/emoji/6200-pika-wink">
+  <img src="https://cdn3.emoji.gg/emojis/6200-pika-wink.gif" alt="Pika_Wink" height="48">
+</a>
 
 <h3>💻 GitHub Profile Stats</h3>
 
