@@ -59,7 +59,7 @@ Welcome to my GitHub. I am a backend developer in python. I to study FastAPI and
       <br>MySQL
             </td>
         <td align="center" width="96">
-        <img src="https://www.sqlalchemy.org/img/sqla_logo.png" width="" height="28" alt="SQLAlchemy" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlalchemy/sqlalchemy-original.svg" width="48" height="48" alt="SQLAlchemy" />
       <br>SQLAlchemy
     </td>
     <td align="center" width="96">
