@@ -8,7 +8,7 @@
 <br><br><br>
 Hi, I'm Alexandr 👋
 to my GitHub. I am a backend developer in python. I to study FastAPI and practice the skills of solving algorithmic problems on Codewars and LeetCode.
-<br><br>
+<br><br><br>
 
 ## My favorite tools and technologies ⚙️
 
