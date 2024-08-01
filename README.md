@@ -114,7 +114,7 @@
   </a>
   <div style="margin-left: 10px;">
     <a href="https://emoji.gg/emoji/6200-pika-wink">
-      <img src="https://cdn3.emoji.gg/emojis/6200-pika-wink.gif" alt="Pika_Wink">
+      <img src="https://cdn3.emoji.gg/emojis/6200-pika-wink.gif" alt="Pika_Wink" height="48">
     </a>
   </div>
 </div>
