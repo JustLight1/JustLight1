@@ -121,5 +121,5 @@ to my GitHub. I am a backend developer in python. I to study FastAPI and practic
 [![JustLight1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JustLight1&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 
-<img src="https://media1.tenor.com/m/fiFkzs-VqbwAAAAC/madzyy.gif" height="284px">
-<img src="https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-anime-girl-87.gif" align="right">
+<img src="https://media1.tenor.com/m/fiFkzs-VqbwAAAAC/madzyy.gif" width= "350px" >
+<img src="https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-anime-girl-87.gif" width= "350px" align="right">
