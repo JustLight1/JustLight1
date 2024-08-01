@@ -123,5 +123,5 @@ to my GitHub. I am a backend developer in python. I to study FastAPI and practic
 
 <div>
   <img src="https://media1.tenor.com/m/fiFkzs-VqbwAAAAC/madzyy.gif" width= "420px" >
-  <img src="https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-anime-girl-87.gif" width= "420px" align="right">
+  <img src="https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-anime-girl-87.gif" width= "420px" height="246px">
 </div>
