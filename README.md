@@ -100,7 +100,7 @@ to my GitHub. I am a backend developer in python. I to study FastAPI and practic
 
 <h3>LeetCode Stats</h3>
 
-## [![LeetCode](https://leetcode-stats-six.vercel.app/api?username=JustLight1&theme=dark)](https://leetcode.com/JustLight1/)
+## [![Leetcode Stats](https://leetcard.jacoblin.cool/JustLight1?show_rank=false&theme=wtf)](https://leetcode.com/JustLight1)
 
 <h3>🔥 Streak Stats</h3>
 
