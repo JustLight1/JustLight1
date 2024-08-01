@@ -1,12 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&width=900&height=100&lines=Python+Backend+Developer)](https://git.io/typing-svg)
 
 [![Telegram Badge](https://img.shields.io/badge/-Light_88-blue?style=social&logo=telegram&link=https://t.me/Light_88)](https://t.me/Light_88)
- 
 
 Hi, I'm Alexandr 👋
 
 Welcome to my GitHub. I am a backend developer in python. I to study FastAPI and practice the skills of solving algorithmic problems on Codewars and LeetCode.
-
 
 ## My favorite tools and technologies ⚙️
 
@@ -25,6 +23,14 @@ Welcome to my GitHub. I am a backend developer in python. I to study FastAPI and
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
     </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+          </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
           <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
@@ -33,41 +39,49 @@ Welcome to my GitHub. I am a backend developer in python. I to study FastAPI and
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Docker
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
+    </tr>
+    <tr>
     </td>
-    <td align="center" width="96">
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>Github
     </td>
-    </tr>
-    <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-        <td align="center" width="96">
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
+      </td>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" />
+      <br>MySQL
+            </td>
+        <td align="center" width="96">
+        <img src="https://avatars.githubusercontent.com/u/6043126?s=200&v=4" width="55" height="60" alt="SQLAlchemy" />
+      <br>SQLAlchemy
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="jquery" />
       <br>SQLite
+    </tr>
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
-    </td>
-            <td align="center" width="96">
+      </td>
+        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-    </tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+          </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+      <br>Nginx
   </tr>
  <tr>
  </tr>
@@ -75,6 +89,7 @@ Welcome to my GitHub. I am a backend developer in python. I to study FastAPI and
 </div>
 
 ## Some Stats
+
 ![](https://komarev.com/ghpvc/?username=JustLight1&style=flat-square&color=blue)
 
 <h3>Codewars Stats</h3>
@@ -83,12 +98,11 @@ Welcome to my GitHub. I am a backend developer in python. I to study FastAPI and
 
 <h3>LeetCode Stats</h3>
 
-[![LeetCode](https://leetcode-stats-six.vercel.app/api?username=JustLight1&theme=dark)](https://leetcode.com/JustLight1/)
----
+## [![LeetCode](https://leetcode-stats-six.vercel.app/api?username=JustLight1&theme=dark)](https://leetcode.com/JustLight1/)
 
 <h3>🔥 Streak Stats</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JustLight1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JustLight1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <h3>💻 GitHub Profile Stats</h3>
 
