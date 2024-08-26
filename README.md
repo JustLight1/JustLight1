@@ -97,6 +97,7 @@ to my GitHub. I am a backend developer in python. I to study FastAPI and practic
 <h3>Codewars Stats</h3>
 
 [![Codewars](https://www.codewars.com/users/JustLight1/badges/large)](https://www.codewars.com/users/JustLight1)
+[![Codewars](https://github.r2v.ch/codewars?user=JustLight1&top_languages=true&hide_clan=true&stroke=black&theme=gradient_midnight_puple_by_level)](https://www.codewars.com/users/JustLight1)
 
 <h3>LeetCode Stats</h3>
 
